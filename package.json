@@ -1,5 +1,6 @@
 {
   "name": "express_example",
+  "author": "sunny-patneedi",
   "version": "0.0.1",
   "private": true,
   "scripts": {
